@@ -2,9 +2,10 @@
   <img height="150" width="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-###
 
 <h1 align="center">Hey! I'm Sneha😎</h1>
+<p align="center">snehamarimuthu326@gmail.com</p>
+<h1 align="center">Connect with me</h1>
 
 ###
 
